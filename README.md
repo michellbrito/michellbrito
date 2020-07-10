@@ -7,6 +7,6 @@
 🔭 I’m currently working on my thesis<br />
 🌱 I’m currently learning about recommendation systems <br />
 💬 Ask me about JavaScript, Python, and crime solving tv shows<br />
-📫 How to reach me: twitter: @michelldbrito <br />
+📫 How to reach me: <a href="mailto:michellbp@msn.com" target="_blank">michellbp@msn.com</a><br />
 😄 Pronouns: she/her<br />
 ⚡ Fun fact:<br />
