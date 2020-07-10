@@ -1,6 +1,6 @@
 ### 👋 Hi, welcome to my github
 
-### Connect with me 
+### 👇 Connect with me 
 <a href="https://www.linkedin.com/in/michell-brito/" target="_blank">Linkedin</a> • <a href="https://twitter.com/michelldbrito" target="_blank">Twitter</a> • <a href="https://medium.com/@michellbrito" target="_blank">Medium</a>
 
 
