@@ -9,4 +9,4 @@
 💬 Ask me about JavaScript, Python, and crime solving tv shows<br />
 📫 How to reach me: <a href="mailto:michellbp@msn.com" target="_blank">michellbp@msn.com</a><br />
 😄 Pronouns: she/her<br />
-⚡ Fun fact:<br />
+⚡ Fun fact: I made photoshop tutorials back in middle school <br />
