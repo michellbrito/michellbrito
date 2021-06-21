@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/michell-brito/" target="_blank">Linkedin</a> • <a href="https://twitter.com/michelldbrito" target="_blank">Twitter</a> • <a href="https://medium.com/@michellbrito" target="_blank">Medium</a>
 
 
-👩‍💻 I’m currently working on my masters degree <a target="_blank" href="https://www.tamu.edu/">@TAMU </a> • Open Source Maintainer <a target="_blank" href="https://github.com/techqueria">@Techqueria </a><br />
+👩‍💻 Full-Stack Developer <a target="_blank" href="https://www.adobe.com/">@Adobe </a> • Open Source Maintainer <a target="_blank" href="https://github.com/techqueria">@Techqueria </a><br />
 🧠 I’m currently learning about recommendation systems <br />
 💬 Ask me about JavaScript, Python, and crime solving tv shows<br />
 💻 Previosuly interned: <a href="https://twitter.com/Adobe" target="_blank">@Adobe</a> • <a href="https://twitter.com/MeredithCorp" target="_blank">@MeredithCorp</a><br />
