@@ -1,7 +1,7 @@
 ### 👋 Hi, welcome to my github
 
 ### 👇 Connect with me 
-<a href="https://www.linkedin.com/in/michell-brito/" target="_blank">Linkedin</a> • <a href="https://twitter.com/michelldbrito" target="_blank">Twitter</a> • <a href="https://medium.com/@michellbrito" target="_blank">Medium</a>
+<a href="https://www.linkedin.com/in/michellbrito/" target="_blank">Linkedin</a> • <a href="https://twitter.com/michelldbrito" target="_blank">Twitter</a> • <a href="https://medium.com/@michellbrito" target="_blank">Medium</a>
 
 
 👩‍💻 Full-stack Developer <a target="_blank" href="https://www.adobe.com/">@Adobe </a> • Technology Lead <a target="_blank" href="https://github.com/techqueria">@Techqueria </a><br />
