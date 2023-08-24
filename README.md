@@ -5,7 +5,7 @@
 
 
 👩‍💻 Full-stack Developer <a target="_blank" href="https://www.adobe.com/">@Adobe </a> • Technology Lead <a target="_blank" href="https://github.com/techqueria">@Techqueria </a><br />
-⚙️ Working on: <a target="_blank" href="http://insureme4cheap.com">InsureMe4Cheap</a><br />
+⚙️ Working on: developing multiple sites based of domain names I bought 🤫 <br />
 🧠 Learning about: Recommendation systems • SEO <br />
 💬 Ask me about JavaScript, Python, and crime solving tv shows<br />
 💻 Previosuly interned: <a href="https://twitter.com/Adobe" target="_blank">@Adobe</a> • <a href="https://twitter.com/MeredithCorp" target="_blank">@MeredithCorp</a><br />
