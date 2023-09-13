@@ -5,7 +5,7 @@
 
 
 👩‍💻 Full-stack Developer <a target="_blank" href="https://www.adobe.com/">@Adobe </a> • Technology Lead <a target="_blank" href="https://github.com/techqueria">@Techqueria </a><br />
-⚙️ Working on: <a href="https://csstrivia.com" target="_blank">csstrivia.com</a> • <a href="https://countryclubpools.com" target="_blank">countryclubpools.com</a><br />
+⚙️ Working on: <a href="https://websiteleads.com" target="_blank">websiteleads.com</a><br />
 🧠 Learning about: Recommendation systems • SEO <br />
 💬 Ask me about JavaScript, Python, and crime solving tv shows<br />
 💻 Previosuly interned: <a href="https://twitter.com/Adobe" target="_blank">@Adobe</a> • <a href="https://twitter.com/MeredithCorp" target="_blank">@MeredithCorp</a><br />
