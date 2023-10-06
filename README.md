@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/michellbrito/" target="_blank">Linkedin</a> • <a href="https://twitter.com/michelldbrito" target="_blank">Twitter</a> • <a href="https://medium.com/@michellbrito" target="_blank">Medium</a>
 
 
-👩‍💻 Full-stack Developer <a target="_blank" href="https://www.adobe.com/">@Adobe </a>
+👩‍💻 Full-stack Developer <a target="_blank" href="https://www.adobe.com/">@Adobe </a><br />
 🧠 Learning about: Recommendation systems • SEO <br />
 💬 Ask me about JavaScript, Python, and crime solving tv shows<br />
 💻 Previosuly interned: <a href="https://twitter.com/Adobe" target="_blank">@Adobe</a> • <a href="https://twitter.com/MeredithCorp" target="_blank">@MeredithCorp</a><br />
