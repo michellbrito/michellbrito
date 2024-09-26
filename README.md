@@ -1,7 +1,7 @@
 ### 👋 Hi, welcome to my github
 
 ### 👇 Connect with me 
-<a href="https://www.linkedin.com/in/michellbrito/" target="_blank">Linkedin</a> • <a href="https://twitter.com/michelldbrito" target="_blank">Twitter</a> • <a href="https://medium.com/@michellbrito" target="_blank">Medium</a>
+<a href="https://www.youtube.com/@michelldbrito" target="_blank">YouTube</a> • <a href="https://x.com/michelldbrito" target="_blank">X</a> • <a href="https://www.linkedin.com/in/michellbrito/" target="_blank">Linkedin</a>
 
 
 👩‍💻 Software Development Engineer <a target="_blank" href="https://www.adobe.com/">@Adobe </a><br />
