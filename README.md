@@ -8,7 +8,7 @@
 🧠 Learning about: Recommendation systems • SEO <br />
 💬 Ask me about: JavaScript, Python, and crime solving tv shows<br />
 💻 Previosuly interned: <a href="https://twitter.com/Adobe" target="_blank">@Adobe</a> • <a href="https://twitter.com/MeredithCorp" target="_blank">@MeredithCorp</a><br />
-📫 How to reach me: <a href="mailto:me@michellbrito.com" target="_blank">me@michellbrito.com</a><br />
+📫 How to reach me: <a href="mailto:hi@michellbrito.com" target="_blank">hi@michellbrito.com</a><br />
 ⚡ Fun fact: I made photoshop tutorials back in middle school <br />
 
 ![](https://komarev.com/ghpvc/?username=michellbrito&label=PROFILE+VIEWS&style=flat-square&color=yellow)
